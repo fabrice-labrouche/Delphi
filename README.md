@@ -1,4 +1,4 @@
-# Delphi-2
+# Delphi 2
 
 Tout le code dans ce dossier a été écrit en Delphi 2 (Pascal objet version 32 bits).<br>
 Le compilateur Pascal Objet de Borland date de 1996 mais est ultra rapide et fonctionne parfaitement sous Windows 10 !<br>
