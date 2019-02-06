@@ -1,0 +1,141 @@
+[MainWindow]
+Create=1
+Visible=1
+State=2
+Left=0
+Top=4
+Width=800
+Height=135
+MaxLeft=-4
+MaxTop=-4
+MaxWidth=1698
+MaxHeight=135
+[ProjectManager]
+Column0Width=75
+Column1Width=125
+Column2Width=125
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=-5
+Top=124
+Width=300
+Height=887
+SplitPos=135
+[History_15]
+Count=32
+H0=ftimer.interval
+H1=value
+H2=JoyInfo.wXPos
+H3=wXPos
+H4=fcenterx
+H5=lastx
+H6=joyGetThreshold(0)
+H7=joyGetThreshold
+H8=joycaps.wPeriodMax
+H9=joycaps.wPeriodMin
+H10=joycaps
+H11=ftimer.enabled
+H12=end
+H13=lastbuttons
+H14=NBGosth
+H15=nSprite
+H16=sqrt(a.y-b.y)
+H17=(a.y-b.y)
+H18=(a.x-b.x)
+H19=b
+H20=a
+H21=a.x
+H22=result
+H23=x
+H24=ppacgum1
+H25=ppacgum2
+H26=ppoints
+H27=hpacgum1
+H28=aSprites[nSprite].zone
+H29=aSprites[nSprite].more
+H30=aSprites[nSprite]
+H31=aSprites[nSprite].Trace
+[History_19]
+Count=9
+H0=c:\users\pcfl3\mes sources\progs\delphi\sources\lib32\joystk.pas
+H1=c:\users\pcfl3\mes sources\progs\delphi\sprite\pacman\tableaux.dpr
+H2=c:\temp\nouveau dossier\rsjoy\demojoy.dpr
+H3=c:\users\pcfl3\mes sources\progs\delphi\photomjc\photomjc.dpr
+H4=c:\users\pcfl3\mes sources\progs\delphi\photomjc\cotis.dpr
+H5=c:\users\pcfl3\mes sources\progs\delphi\sprite\joystick\project1.dpr
+H6=c:\documents and settings\utilisateur\fichwin\progs\delphi\sprite\pacman\tableaux.dpr
+H7=c:\documents and settings\utilisateur\fichwin\progs\delphi\sprite\chitawek\project1.dpr
+H8=c:\fichwin\progs\delphi\sprite\sources\pacman.dpr
+[History_26]
+Count=11
+H0=1
+H1=26
+H2=22
+H3=32
+H4=24
+H5=25
+H6=23
+H7=18
+H8=20
+H9=21
+H10=19
+[History_38]
+Count=1
+H0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[Closed Files]
+File_0=C:\Users\PCFL3\AppData\Roaming\Borland\Delphi 2.0\RX\Units\RxConst.pas,1,74,1,87
+File_1=C:\PROGRA~1\AOL\DOWNLOAD\TUTO_RES\RESSOU~1\ETAPE3\Unit1.pas,1,118,21,129
+File_2=C:\FICHWIN\PROGS\DELPHI\ESSAIS\DFMCONV1.PAS,1,1,1,44
+File_3=C:\FICHWIN\PROGS\DELPHI\ESSAIS\NEWOBJ\PREVISU4.PAS,1,30,9,32
+File_4=C:\FICHWIN\PROGS\DELPHI\ESSAIS\NEWOBJ\PREVISU3.PAS,1,1,1,1
+[Modules]
+Module0=C:\Users\PCFL3\Mes sources\Progs\Delphi\Sprite\PacMan\MAIN.PAS
+Module1=C:\Users\PCFL3\Mes sources\Progs\Delphi\Sprite\PacMan\PacMan.dpr
+Module2=C:\Users\PCFL3\Mes sources\Progs\Delphi\Sprite\PacMan\Scores.pas
+Count=3
+EditWindowCount=1
+[Form0]
+FormState=1
+[Form1]
+FormState=0
+[Form2]
+FormState=0
+[EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=281
+Top=343
+Width=1405
+Height=664
+SplitPos=50
+MessagePane=0
+ViewCount=3
+CurrentView=1
+View0=0
+View1=1
+View2=2
+[View0]
+Module=1
+CursorX=19
+CursorY=9
+TopLine=1
+LeftCol=1
+[View1]
+Module=0
+CursorX=1
+CursorY=738
+TopLine=728
+LeftCol=1
+[View2]
+Module=2
+CursorX=14
+CursorY=38
+TopLine=28
+LeftCol=1
+[Watches]
+Count=0
+[Breakpoints]
+Count=0
