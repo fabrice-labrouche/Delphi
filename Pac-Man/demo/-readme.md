@@ -32,5 +32,6 @@ Enjoy !
 Fabrice
 <fabrice.labrouche@free.fr>
 
-Les dessins 3D ont été réalisés par une autre personne qui me l'es a envoyés. 
-Je l'en remercie vivement, mais hélas je n'ai plus son nom. Si elle se reconnait...
+Le rendu 3D de mes dessins a été réalisé par une autre personne. 
+Je l'en remercie vivement, mais hélas je n'ai plus son nom. 
+Si elle se reconnait...
