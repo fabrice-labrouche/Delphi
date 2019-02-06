@@ -8,7 +8,7 @@ Le Jeu va adapter son affichage pour Windows 10 :
 au 2ème lancement il va récupérer sa résolution native (taille plus petite mais plus net).
 
 
-Le jeu :
+Le jeu PacMan.exe :
 --------
 - Entrer pour Pause ou démarrer
 - Les flèches pour se deplacer
@@ -27,6 +27,15 @@ Les bonus :
 - le marteau vous permet de casser les murs
 
 
+
+Tableaux.exe Vous permet de créer vos propres tableaux
+-
+- Vous choisissez une image comme pinceau pour le mur
+- Vous sélectionnez le point pou effacer les murs
+- Vous mettez les PacGum ou vous voulez
+- Vous pouvez utiliser la symétrie pour réaliser vos tableaux
+
+
 Enjoy !
 
 Fabrice
@@ -37,11 +46,3 @@ Fabrice
 PS : Le rendu 3D de mes dessins a été réalisé par une autre personne. 
 Je l'en remercie vivement, mais hélas je n'ai plus son nom. 
 Si elle se reconnait...
-
-
-Tableaux.exe Vous permet de créer vos propres tableaux
--
-- Vous choisissez une image comme pinceau pour le mur
-- Vous sélectionnez le point pou effacer les murs
-- Vous mettez les PacGum ou vous voulez
-- Vous pouvez utiliser la symétrie pour réaliser vos tableaux
