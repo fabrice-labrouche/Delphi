@@ -8,8 +8,8 @@ Le Jeu va adapter son affichage pour Windows 10 :
 au 2ème lancement il va récupérer sa résolution native (taille plus petite mais plus net).
 
 
-Le jeu PacMan.exe :
---------
+Le jeu, PacMan.exe :
+-
 - Entrer pour Pause ou démarrer
 - Les flèches pour se deplacer
 - Echap pour Quitter
@@ -18,8 +18,8 @@ Le jeu PacMan.exe :
 - Une option cachée pour vous rendre invisible en faisant... à découvrir
 
 
-Les bonus :
------------
+Les bonus du jeu :
+-
 - les clefs emprisonnent tous les fantomes
 - l'étoile vous donne 2 000 pts
 - le coeur vous donne une vie en plus (max 3)
@@ -28,7 +28,7 @@ Les bonus :
 
 
 
-Tableaux.exe Vous permet de créer vos propres tableaux
+Créez vos propres tableaux avec Tableaux.exe
 -
 - Vous choisissez une image comme pinceau pour le mur
 - Vous sélectionnez le point pou effacer les murs
