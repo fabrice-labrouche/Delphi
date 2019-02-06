@@ -10,12 +10,12 @@ au 2ème lancement il va récupérer sa résolution native (taille plus petite m
 
 Le jeu :
 --------
-Entrer pour Pause ou démarrer.
-Les flèches pour ce deplacer.
-Echap pour Quitter.
-Clic droit sur le nombre de fantômes pour le changer de 1 à 3
-Clic droit sur le Niveau en pause pour changer de niveau mais c'est de la triche ;-)
-Une option cachée pour vous rendre invisible en faisant...
+- Entrer pour Pause ou démarrer.
+- Les flèches pour ce deplacer.
+- Echap pour Quitter.
+- Clic droit sur le nombre de fantômes pour le changer de 1 à 3
+- Clic droit sur le Niveau en pause pour changer de niveau mais c'est de la triche ;-)
+- Une option cachée pour vous rendre invisible en faisant...
 
 
 Les bonus :
