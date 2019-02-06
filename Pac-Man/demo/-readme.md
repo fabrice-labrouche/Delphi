@@ -30,8 +30,10 @@ Les bonus :
 Enjoy !
 
 Fabrice
+
 <fabrice.labrouche@free.fr>
 
-Le rendu 3D de mes dessins a été réalisé par une autre personne. 
+
+PS : Le rendu 3D de mes dessins a été réalisé par une autre personne. 
 Je l'en remercie vivement, mais hélas je n'ai plus son nom. 
 Si elle se reconnait...
