@@ -1,5 +1,5 @@
 
-DEZIPPEZ dans un dossier et lancez :
+Copiez ces fichiers dans un dossier et lancez :
 PacMan.exe pour jouer
 Tableaux.exe pour créer ou remplacer des tableaux
 
