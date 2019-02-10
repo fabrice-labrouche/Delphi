@@ -14,4 +14,3 @@ Une liste non exhaustive de ses posibilités :
 - il se met à jour automatiqument si la connexion internet le permet
 - il est portable
 - il peut fonctionner sur un réseau local
-- et c'est toujours du Delphi 2
