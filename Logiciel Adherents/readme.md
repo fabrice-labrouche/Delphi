@@ -19,9 +19,9 @@ Une liste non exhaustive de ses posibilités :
 ### Les sources
 Elles ont compressées (> 200 fichiers)
 
-## La démo
+### La démo
 Elle est utilisable simplement en dézippant l'archive dans un dossier placé idéalement pour le test sur le bureau Windows
 
-**Le lanceur s'appelle AstuceW.exe**
+### Le lanceur s'appelle AstuceW.exe
 
 _Fabrice_
