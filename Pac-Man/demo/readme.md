@@ -1,11 +1,11 @@
 
-Copiez ces fichiers dans un dossier et lancez :
+Copiez Demo-PacMan.zip dans un dossier, décompressez-le et lancez :
 -
-PacMan.exe pour jouer
-Tableaux.exe pour créer ou remplacer des tableaux
+**PacMan.exe pour jouer**
+**Tableaux.exe pour créer ou remplacer des tableaux**
 
-Le Jeu va adapter son affichage pour Windows 10 :
-au 2ème lancement il va récupérer sa résolution native (taille plus petite mais plus net).
+**Le Jeu va adapter son affichage pour Windows 10 au 2ème lancement :**
+il va récupérer sa résolution native (taille plus petite mais plus net).
 
 
 Le jeu, PacMan.exe :
