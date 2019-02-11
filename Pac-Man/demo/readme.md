@@ -5,7 +5,7 @@ Copiez Demo-PacMan.zip dans un dossier, décompressez-le et lancez :
 
 **Tableaux.exe pour créer ou remplacer des tableaux**
 
-**Le Jeu va adapter son affichage pour Windows 10 au 2ème lancement :**
+**Le Jeu va adapter son affichage pour Windows 10 au 2ème lancement :**<br>
 il va récupérer sa résolution native (taille plus petite mais plus net).
 
 
