@@ -15,3 +15,12 @@ Une liste non exhaustive de ses posibilités :
 - il est portable
 - il peut fonctionner sur un réseau local
 - ...
+
+Les sources
+Elles ont compressées (> 200 fichiers)
+
+La démo
+Elle est utilisable simplement en dézippant l'archive dans un dossier placé idéalement pour le test sur le bureau Windows
+Le lanceur s'appelle AstuceW.exe
+
+Fabrice
