@@ -22,6 +22,4 @@ Elles ont compressées (> 200 fichiers)
 ### La démo
 Elle est utilisable simplement en dézippant l'archive dans un dossier placé idéalement pour le test sur le bureau Windows
 
-### Le lanceur s'appelle AstuceW.exe
-
-_Fabrice_
+### _Le lanceur s'appelle AstuceW.exe_
