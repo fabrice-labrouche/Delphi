@@ -2,7 +2,7 @@
 "Astuce" est un logiciel qui gère les adhérents d'une association et leurs activités
 --
 
-Une liste non exhaustive de ses posibilités :
+**Une liste non exhaustive de ses posibilités :
 
 - il enregistre les coordonnées des adhérents
 - il enregistre également leurs activités et les paiements associés
