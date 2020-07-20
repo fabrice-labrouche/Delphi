@@ -4,4 +4,4 @@ Vous trouverez dans ce dossier du code écrit en Delphi 2 (Pascal objet version 
 L'EDI version 2 de Borland date de 1996 mais est ultra rapide et fonctionne parfaitement<br>
 même sous Windows 10 64 bits. 
 
-#https://github.com/fabrice-labrouche/Delphi/issues/1#issue-661219154
+![Delphi](https://user-images.githubusercontent.com/47381684/87889704-4cde4780-ca33-11ea-92a8-4ef90d802515.PNG)
